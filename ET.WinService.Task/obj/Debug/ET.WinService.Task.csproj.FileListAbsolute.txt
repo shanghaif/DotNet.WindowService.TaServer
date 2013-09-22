@@ -1,0 +1,16 @@
+E:\work\code\TAServer\ET.WinService.Task\bin\Debug\ET.WinService.Task.dll
+E:\work\code\TAServer\ET.WinService.Task\bin\Debug\ET.WinService.Task.pdb
+E:\work\code\TAServer\ET.WinService.Task\bin\Debug\ET.TA.IAA.dll
+E:\work\code\TAServer\ET.WinService.Task\bin\Debug\ET.WinService.Core.dll
+E:\work\code\TAServer\ET.WinService.Task\bin\Debug\log4net.dll
+E:\work\code\TAServer\ET.WinService.Task\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\work\code\TAServer\ET.WinService.Task\bin\Debug\Apache.NMS.dll
+E:\work\code\TAServer\ET.WinService.Task\bin\Debug\Apache.NMS.ActiveMQ.dll
+E:\work\code\TAServer\ET.WinService.Task\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\work\code\TAServer\ET.WinService.Task\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\work\code\TAServer\ET.WinService.Task\bin\Debug\ET.TA.IAA.pdb
+E:\work\code\TAServer\ET.WinService.Task\bin\Debug\ET.WinService.Core.pdb
+E:\work\code\TAServer\ET.WinService.Task\bin\Debug\log4net.xml
+E:\work\code\TAServer\ET.WinService.Task\obj\Debug\ET.WinService.Task.csprojResolveAssemblyReference.cache
+E:\work\code\TAServer\ET.WinService.Task\obj\Debug\ET.WinService.Task.dll
+E:\work\code\TAServer\ET.WinService.Task\obj\Debug\ET.WinService.Task.pdb

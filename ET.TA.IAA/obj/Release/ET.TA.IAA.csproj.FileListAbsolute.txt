@@ -1,0 +1,14 @@
+E:\work\code\TAServer\ET.TA.IAA\bin\Release\ET.TA.IAA.dll
+E:\work\code\TAServer\ET.TA.IAA\bin\Release\ET.TA.IAA.pdb
+E:\work\code\TAServer\ET.TA.IAA\bin\Release\ET.WinService.Core.dll
+E:\work\code\TAServer\ET.TA.IAA\bin\Release\log4net.dll
+E:\work\code\TAServer\ET.TA.IAA\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\work\code\TAServer\ET.TA.IAA\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\work\code\TAServer\ET.TA.IAA\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+E:\work\code\TAServer\ET.TA.IAA\bin\Release\Apache.NMS.dll
+E:\work\code\TAServer\ET.TA.IAA\bin\Release\Apache.NMS.ActiveMQ.dll
+E:\work\code\TAServer\ET.TA.IAA\bin\Release\ET.WinService.Core.pdb
+E:\work\code\TAServer\ET.TA.IAA\bin\Release\log4net.xml
+E:\work\code\TAServer\ET.TA.IAA\obj\Release\ET.TA.IAA.csprojResolveAssemblyReference.cache
+E:\work\code\TAServer\ET.TA.IAA\obj\Release\ET.TA.IAA.dll
+E:\work\code\TAServer\ET.TA.IAA\obj\Release\ET.TA.IAA.pdb

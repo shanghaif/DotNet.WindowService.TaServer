@@ -1,0 +1,4 @@
+2013/5/9 11:14:45-----WinService cfgFile=E:\work\code\TAServer\EtransServer\bin\Debug\ConfigFiles\WinService.xml
+2013/5/9 11:14:45-----Service cfgFile=E:\work\code\TAServer\EtransServer\bin\Debug\ConfigFiles\Service.xml
+2013/5/9 11:14:58-----WinService cfgFile=E:\work\code\TAServer\EtransServer\bin\Debug\ConfigFiles\WinService.xml
+2013/5/9 11:14:58-----Service cfgFile=E:\work\code\TAServer\EtransServer\bin\Debug\ConfigFiles\Service.xml

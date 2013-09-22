@@ -1,0 +1,11 @@
+E:\work\code\TAServer\ET.WinService.Core\bin\Debug\ET.WinService.Core.dll
+E:\work\code\TAServer\ET.WinService.Core\bin\Debug\ET.WinService.Core.pdb
+E:\work\code\TAServer\ET.WinService.Core\bin\Debug\Apache.NMS.ActiveMQ.dll
+E:\work\code\TAServer\ET.WinService.Core\bin\Debug\Apache.NMS.dll
+E:\work\code\TAServer\ET.WinService.Core\bin\Debug\log4net.dll
+E:\work\code\TAServer\ET.WinService.Core\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\work\code\TAServer\ET.WinService.Core\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\work\code\TAServer\ET.WinService.Core\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\work\code\TAServer\ET.WinService.Core\bin\Debug\log4net.xml
+E:\work\code\TAServer\ET.WinService.Core\obj\Debug\ET.WinService.Core.dll
+E:\work\code\TAServer\ET.WinService.Core\obj\Debug\ET.WinService.Core.pdb
